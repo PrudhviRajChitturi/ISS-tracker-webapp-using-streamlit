@@ -21,9 +21,9 @@ Developed as part of the **India Space Academy Summer School Project** by **Prud
 
 ## 📷 Screenshots
 
-![App Screenshot](Screenshot (137).png)
-![App Screenshot](Screenshot (138).png)
-![App Screenshot](Screenshot (139).png)
+![App Screenshot](Screenshot(137).png)
+![App Screenshot](Screenshot(138).png)
+![App Screenshot](Screenshot(139).png)
 ---
 
 ## 🔧 How to Run Locally
