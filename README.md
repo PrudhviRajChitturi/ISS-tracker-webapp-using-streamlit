@@ -32,3 +32,5 @@ Developed as part of the **India Space Academy Summer School Project** by **Prud
 ```bash
 git clone https://github.com/PrudhviRajChitturi/ISS-tracker-webapp-using-streamlit
 cd iss-live-tracker
+
+### This is an open source project
