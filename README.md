@@ -36,4 +36,5 @@ cd iss-live-tracker
 ---
 
 ## **⚖License**
-- This Project is open-source License
+- This Project is MIT Licensed.
+
